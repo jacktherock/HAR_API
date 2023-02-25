@@ -1,0 +1,20 @@
+{
+  "har": [
+    {
+      "id": 1,
+      "activity": "Sleeping",
+      "attributes": {
+        "axisX": 45.45,
+        "axisY": 65.65
+      }
+    },
+    {
+      "id": 2,
+      "activity": "Sitting",
+      "attributes": {
+        "axisX": 45.45,
+        "axisY": 65.65
+      }
+    }
+  ]
+}
